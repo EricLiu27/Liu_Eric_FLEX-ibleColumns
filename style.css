@@ -1,0 +1,29 @@
+.row{
+    display:flex;
+    background-color: whitesmoke;
+    align-items:flex-start;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+
+.col{
+    height: 50px;
+    background-color: rgb(101,157,161);
+    flex: 1;
+    margin-right: 20pt;
+}
+
+.col-2{
+    height: 50px;
+    background-color: rgb(101,157,161);
+    flex: 2;
+    margin-right: 20pt;
+}
+
+.col-3{
+    height: 50px;
+    background-color: rgb(101,157,161);
+    flex: 3;
+    margin-right: 20pt;
+}
